@@ -1,0 +1,274 @@
+{
+  "quiz": [{
+      "question": "Dylan lost his job because consumers and businesses switched from taxi cabs to mass transit.",
+      "options": [
+        "Cyclical",
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical",
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical",
+        "Not Unemployed",
+        "Frictional",
+        "Structural"
+      ],
+      "answer": "3"
+    }, {
+      "question": "Dion is looking for a job that better matches his skills and interests.",
+      "options": [
+        "Cyclical",
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical",
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical",
+        "Not Unemployed",
+        "Frictional",
+        "Structural"
+      ],
+      "answer": "1"
+    },
+
+    {
+      "question": "Christine recently retired from her job as a computer programmer.",
+      "options": [
+        "Not Unemployed",
+        "Structural",
+        "Frictional",
+        "Cyclical"
+      ],
+      "answer": "0"
+    }, {
+      "question": "Joseph quit his job as a store clerk and is taking a month to travel Europe prior to starting his new job in advertising.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical",
+        "Structural"
+      ],
+      "answer": "1"
+    },
+
+    {
+      "question": "Dana lost her job because she could not operate a new drill that the company installed.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical",
+        "Structural"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "Eric lost his job when it was outsourced to the Bahamas.",
+      "options": [
+        "Not Unemployed",
+        "Cyclical",
+        "Frictional",
+        "Structural"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "The recent downturn in the economy causes Adriana to lose her job.",
+      "options": [
+        "Structural",
+        "Not Unemployed",
+        "Frictional",
+        "Cyclical"
+      ],
+      "answer": "3"
+    },
+
+    {
+      "question": "Francesca is a homemaker who quit her job to stay home with her children.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "0"
+    },
+
+    {
+      "question": "Brittany lost his job when a mild recession hit to the economy.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "3"
+    },
+
+    {
+      "question": "Ricci lost her job because she could not move to Texas when the company relocated.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "Giselle lost her job as a New York magazine ad editor when consumers and businesses switched to internet advertising.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "In search of a better opportunity for promotion, Misty left her job in Florida and moved to New York.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "1"
+    },
+
+    {
+      "question": "Victoria was laid off her construction job because of a colder than normal winter.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "Devan believes she will never find a job that matches her skills so she quit looking.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "0"
+    },
+
+    {
+      "question": "When consumers lost half of their real wealth as a result of a general decline in the stock market, Naomi lost her job.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "3"
+    },
+
+    {
+      "question": "Nicole was laid off from her job as a swimming pool designer when people quit buying swimming pools because their real incomes decreased.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "3"
+    },
+
+    {
+      "question": "Soya, a recent college graduate, is searching for her first job.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "1"
+    },
+
+    {
+      "question": "Katya was unable to operate the new computers that were installed in her office so she was laid off.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "Stephanie lost her job as a wild land firefighter when the weather turned cold.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "Ricardo refuses to work for minimum wage.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "1"
+    },
+
+    {
+      "question": "Sales are down all over Crowntown.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "3"
+    },
+
+    {
+      "question": "Todd was unable to work with customers at the front desk so he lost his job.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "question": "Greg is trying to find a job that pays more than he earned in his last position.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "1"
+    },
+
+    {
+      "question": "A discouraged worker is no longer looking for a job.",
+      "options": [
+        "Not Unemployed",
+        "Frictional",
+        "Structural",
+        "Cyclical"
+      ],
+      "answer": "0"
+    }
+  ]
+}
