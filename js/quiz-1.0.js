@@ -30,7 +30,7 @@
             function configureData(){
                 var exists = [],
                 randomNumber,
-                totalQuestions = quizData.length;
+                totalQuestions = opts.totalQust=="" ? quizData.length : opts.totalQust;
                 for (var i = 0; i < totalQuestions; i++) {
                     do {
                         randomNumber = Math.floor(Math.random() * totalQuestions);
@@ -97,7 +97,7 @@
             // Get Result
             function getResult(){
                 correctAns;
-                var totalQ = quizData.length;
+                var totalQ = opts.totalQust=="" ? quizData.length : opts.totalQust;
                 for (var i = 0; i < totalQ; i++) {
                     if(quizData[randomQarr[i]].answer == answerList[i]){
                           correctAns++;  
@@ -113,7 +113,8 @@
     $.fn.quizGen.defaults = {
         myQpath : '',
         showGraph : true,
-        showPreviousBtn : true
+        showPreviousBtn : true,
+        totalQust : null
     }
 
 })(jQuery);
