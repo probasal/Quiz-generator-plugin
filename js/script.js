@@ -1,5 +1,13 @@
 $(document).ready(function(){
-   var myquiz =  $('.quiz-container').quizGen({
-        myQpath: "js/quiz.json"
+   $('.quiz-container').quizGen({
+        myQpath: "js/quiz.json",
+        totalQust: 5,
+        liveResult : function(data){
+            getData(data);
+        }
     });
+    
+    function getData(y){
+        console.log(y);
+    }
 })

@@ -1,19 +1,12 @@
 {
   "quiz": [{
-      "question": "Dylan lost his job because consumers and businesses switched from taxi cabs to mass transit.",
+      "question": "What does HTML stand for?",
       "options": [
-        "Cyclical",
-        "Not Unemployed",
-        "Frictional",
-        "Cyclical",
-        "Not Unemployed",
-        "Frictional",
-        "Cyclical",
-        "Not Unemployed",
-        "Frictional",
-        "Structural"
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language",
+        "Hyperlinks and Text Markup Language"
       ],
-      "answer": "3"
+      "answer": "1"
     }, {
       "question": "Dion is looking for a job that better matches his skills and interests.",
       "options": [
